@@ -10,6 +10,10 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import requests
 import os
 
+
+import sys
+print(f"Python version: {sys.version}")
+
 # Load the Pre-Trained Model
 model = load_model("./Stock Predictions Model.keras")
 

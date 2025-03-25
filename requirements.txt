@@ -5,3 +5,8 @@ pandas
 matplotlib
 yfinance
 plotly
+keras
+scikit-learn
+ta
+vaderSentiment
+requests

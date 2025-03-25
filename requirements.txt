@@ -10,3 +10,4 @@ scikit-learn
 ta
 vaderSentiment
 requests
+tensorflow

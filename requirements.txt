@@ -5,9 +5,9 @@ pandas
 matplotlib
 yfinance
 plotly
-keras
+keras==2.9.0
 scikit-learn
 ta
 vaderSentiment
 requests
-tensorflow-cpu==2.15.1
+tensorflow==2.8.0

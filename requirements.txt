@@ -5,7 +5,7 @@ pandas
 matplotlib
 yfinance
 plotly
-keras==2.9.0
+keras
 scikit-learn
 ta
 vaderSentiment
